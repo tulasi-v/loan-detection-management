@@ -25,20 +25,7 @@ Training the selected model on the data and evaluating its performance using var
 ## 6. Hyperparameter Tuning:
 Fine-tuning the hyperparameters of the selected model to improve its performance. 
 
-## 7. Creating the web app using Gradio: 
-After selecting the best performing model, we have created a web app using Gradio. Due to time constraints, we haven't deployed the web app, but are using localhost.
 
-
-To deploy your own version of the web app, you can use the "app.py" file, but do make sure that you're using the correct versions of the libraries used in the project.
-Once you run the "loan_approval_classifier.ipynb" notebook in an environment of your choice (Google Colab/Jupyter Notebook), you will be able to save the trained model i.e "loan_classifier.joblib", which hasn't been included in this repository due to size limitations. 
-Once your server starts running, it should look something like this:
-
-![image](https://github.com/user-attachments/assets/93f70d86-d4c7-426c-86c4-ffc875664549)
-
-
-
-
-Happy training and may your algorithms always converge!
 
 
 
